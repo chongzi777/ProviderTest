@@ -1,0 +1,3 @@
+# ProviderTest
+内容提供器练习
+* 通过DatabaseTest项目提供的内容提供器，对DatabaseTest项目中的Book表进行CRUD操作
